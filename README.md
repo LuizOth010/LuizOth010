@@ -1,16 +1,19 @@
-## Hi there 👋
+## Boas vindas ao meu Perfil! 🤍
 
-<!--
-**LuizOth010/LuizOth010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meu nome é Luiz Othavio
 
-Here are some ideas to get you started:
+_ Estou estudanto no Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_ Sou Profissional no Scratch
+
+_ Utilizo esta conta para estudar e desenvolver meus projetos
+
+_ Sou aluno do CCm
+
+_ Aluno do KPG BEATS🎵
+
+### Se Quiser Entrar em Contato comigo👇🏻
+
+othavio.pereira@escola.pr.gov.br
+
+![](https://media.tenor.com/8oTba9VIUsoAAAAM/ayano-hiiii.gif)
