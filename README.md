@@ -16,4 +16,4 @@ _ Aluno do KPG BEATS🎵
 
 othavio.pereira@escola.pr.gov.br
 
-![](https://media.tenor.com/8oTba9VIUsoAAAAM/ayano-hiiii.gif)
+![](https://media.tenor.com/KDu5g3XZyVYAAAAM/subaru-like.gif)
